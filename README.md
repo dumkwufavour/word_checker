@@ -4,7 +4,7 @@ This Discord bot prevents users from sending messages that contain banned words 
 
 ## Version
 
-Current version: `0.1.2`
+Current version: `0.1.3`
 
 For a full history of changes, refer to the [Changelog](CHANGELOG.md).
 
@@ -66,4 +66,4 @@ Make sure to enable the **Message Content Intent** in the [Discord Developer Por
 
 For detailed instructions on how to set up and customize the bot, check out the full documentation on GitBook:
 
-[Full Documentation on GitBook](https://your-gitbook-link.com)
+[Full Documentation on GitBook](https://sydicated.gitbook.io/word-checker/)
