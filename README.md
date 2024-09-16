@@ -2,6 +2,12 @@
 
 This Discord bot prevents users from sending messages that contain banned words in any channel of a server. The list of banned words is stored in a JSON file. When a user tries to send a message with a banned word, the bot deletes the message and notifies the channel that the user attempted to use a banned word.
 
+## Version
+
+Current version: `0.1.2`
+
+For a full history of changes, refer to the [Changelog](CHANGELOG.md).
+
 ## Features
 
 - **Banned Word Detection**: Automatically detects and blocks messages containing words from a predefined list.
